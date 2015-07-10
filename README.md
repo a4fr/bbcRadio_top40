@@ -1,5 +1,5 @@
 # bbc_top40
-BBC radio has a program that play requested listener musics and release top 40 chart from most requested single musics. this chart has available in (BBC Radio - UK Top 40)[http://www.bbc.co.uk/radio1/chart/singles]. My favorite musics almost in this chart. This app has 3 parts:
+BBC radio has a program that play requested listener musics and release top 40 chart from most requested single musics. this chart has available in [BBC Radio - UK Top 40](http://www.bbc.co.uk/radio1/chart/singles). My favorite musics almost in this chart. This app has 3 parts:
 
 1. bbc_top40_robot
 
@@ -15,7 +15,7 @@ Robot extract data from BBC Radio website, save datas on database (in this versi
 
 mp3skull_robot
 --------------
-Robot after getting **artist name** and **music title** from user can search in `mp3skull <http://mp3skull.com>`, find best quantity and original music (not remix if exist) then download it. This robot cat help you to make a repository for download music. This robot also written with **python**.
+Robot after getting **artist name** and **music title** from user can search in [mp3skull](http://mp3skull.com), find best quantity and original music (not remix if exist) then download it. This robot cat help you to make a repository for download music. This robot also written with **python**.
 
 web_interface
 -------------
