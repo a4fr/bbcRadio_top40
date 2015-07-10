@@ -1,5 +1,5 @@
 # bbc_top40
-BBC radio has a program that play requested listener musics and release top 40 chart from most requested single musics. this chart has available in `BBC Radio - UK Top 40 <http://www.bbc.co.uk/radio1/chart/singles>`. My favorite musics almost in this chart. This app has 3 parts:
+BBC radio has a program that play requested listener musics and release top 40 chart from most requested single musics. this chart has available in (BBC Radio - UK Top 40)[http://www.bbc.co.uk/radio1/chart/singles]. My favorite musics almost in this chart. This app has 3 parts:
 
 1. bbc_top40_robot
 
